@@ -16,4 +16,4 @@ the name of instance⎵[best solution from our algorithm]⎵duration for this in
 - **Supplement 1**:  [The solutions for J30](j30detail.md)
 - **Supplement 2**:  [The solutions for J60](j60detail.md)
 - **Supplement 3**:  [The solutions for J120](j120detail.md)
-- **Supplement 4**:  [The whole scheduling process of a J30 example](j30example.md)
+- **Supplement 4**:  [The scheduling process of a J30 example](j30example.md)
