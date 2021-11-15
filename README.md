@@ -13,7 +13,7 @@ j3021_1 [0, 0, 12, 0, 5, 15, 25, 12, 43, 5, 26, 33, 31, 2, 25, 26, 35, 51, 35, 5
 the name of instance⎵[best solution from our algorithm]⎵duration for this instance⎵deviation from optimum (%)⎵use time(seconds)
 
 
-- **Supplement 1**:  [The solution for J30](j30detail.md)
-- **Supplement 2**:  [The solution for J60](j60detail.md)
-- **Supplement 3**:  [The solution for J120](j120detail.md)
+- **Supplement 1**:  [The solutions for J30](j30detail.md)
+- **Supplement 2**:  [The solutions for J60](j60detail.md)
+- **Supplement 3**:  [The solutions for J120](j120detail.md)
 - **Supplement 4**:  [The whole scheduling process of a J30 example](j30example.md)
